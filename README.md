@@ -28,3 +28,8 @@ http://localhost:3000/posts
 http://localhost:3000/comments
 http://localhost:3000/profile
 ```
+
+# install fly.io
+
+https://fly.io/docs/hands-on/install-flyctl/
+
