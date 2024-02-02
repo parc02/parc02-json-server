@@ -32,4 +32,6 @@ http://localhost:3000/profile
 # install fly.io
 
 https://fly.io/docs/hands-on/install-flyctl/
-
+```
+안되면 sudo 로 install 하고  명령어는 flyctl
+```
