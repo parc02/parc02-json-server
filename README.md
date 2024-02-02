@@ -44,7 +44,7 @@ https://fly.io/docs/hands-on/install-flyctl/
 ![image](https://github.com/parc02/parc02-json-server/assets/148880521/8efb2712-edc0-4134-8e32-c06e7963d3c9)
 
 - flyctl deploy
-- 
+  
 - 출력화면
 ![image](https://github.com/parc02/parc02-json-server/assets/148880521/b49ea63a-ce9d-4b56-8727-ede0b455fb0b)
 </details>
