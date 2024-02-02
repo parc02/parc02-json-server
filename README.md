@@ -35,3 +35,6 @@ https://fly.io/docs/hands-on/install-flyctl/
 ```
 안되면 sudo 로 install 하고  명령어는 flyctl
 ```
+# Launch fly.io
+![image](https://github.com/parc02/parc02-json-server/assets/148880521/c24b3ae4-08ab-44f2-92cf-54996e30a53b)
+
