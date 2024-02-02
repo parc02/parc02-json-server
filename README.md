@@ -38,3 +38,7 @@ https://fly.io/docs/hands-on/install-flyctl/
 # Launch fly.io
 ![image](https://github.com/parc02/parc02-json-server/assets/148880521/c24b3ae4-08ab-44f2-92cf-54996e30a53b)
 
+# fly.toml 수정
+![image](https://github.com/parc02/parc02-json-server/assets/148880521/8efb2712-edc0-4134-8e32-c06e7963d3c9)
+
+
